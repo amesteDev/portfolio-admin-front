@@ -5,3 +5,7 @@ The code is only tested and confirmed working on a newer version of Google Chrom
 ***
 
 Login as administrator and update, add or delete data from the API.
+
+***
+
+The style.css is the same that will be generated from running gulp with this repo: ```https://github.com/amesteDev/portfolio-front```
